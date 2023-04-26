@@ -1,6 +1,6 @@
 # NodeJS-Application
 
-## Node.js Application with Express and MongoDB Backend and React/Next.js Frontend
+> Node.js Application with Express and MongoDB Backend and React/Next.js Frontend
 
 This project involves creating a Node.js application using the Express framework and MongoDB database, and connecting it to a frontend application developed using either React or Next.js. The main objective of the project is to fetch data from the MongoDB database and display it on the frontend in a table format, based on certain criteria. 
 
@@ -34,7 +34,12 @@ This API is used to retrieve data from the mongodDB database based on the query 
 This API is used to retrieve data from the mongodDB database based on the query given i.e. Show the data of top 10 cities which have the highest number of users and their average income.
 
 ### Screenshots
+(These screenshots do not show the complete data)
 
 > Table page
-![Table page]()
+![Table page](https://github.com/VisheshGrg/NodeJS-Application/blob/main/images/Screenshot%20from%202023-04-26%2019-04-31.png)
+![Table page](https://github.com/VisheshGrg/NodeJS-Application/blob/main/images/Screenshot%20from%202023-04-26%2019-04-40.png)
+![Table page](https://github.com/VisheshGrg/NodeJS-Application/blob/main/images/Screenshot%20from%202023-04-26%2019-04-57.png)
+![Table page](https://github.com/VisheshGrg/NodeJS-Application/blob/main/images/Screenshot%20from%202023-04-26%2019-05-06.png)
+![Table page](https://github.com/VisheshGrg/NodeJS-Application/blob/main/images/Screenshot%20from%202023-04-26%2019-05-16.png)
 

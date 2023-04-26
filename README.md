@@ -1,8 +1,8 @@
 # NodeJS-Application
 
-> Node.js Application with Express and MongoDB Backend and React/Next.js Frontend
+### Node.js Application with Express and MongoDB Backend and React/Next.js Frontend
 
-This project involves creating a Node.js application using the Express framework and MongoDB database, and connecting it to a frontend application developed using React. The main objective of the project is to fetch data from the MongoDB database and display it on the frontend in a table format, based on certain criteria. 
+>This project involves creating a Node.js application using the Express framework and MongoDB database, and connecting it to a frontend application developed using React. The main objective of the project is to fetch data from the MongoDB database and display it on the frontend in a table format, based on certain criteria. 
 
 ### Tech stack used: 
 
@@ -10,11 +10,11 @@ This project involves creating a Node.js application using the Express framework
 
 ### Functionality
 
-The main objective of the project is to fetch data from the MongoDB database and display it on the frontend in a table format, based on certain criteria.
+> The main objective of the project is to fetch data from the MongoDB database and display it on the frontend in a table format, based on certain criteria.
 
 ### Working
 
-The sample data provided in the "sample_data.json" file will be used to populate the database. The project involves implementing several API endpoints that efficiently and quickly retrieve the required data based on specific conditions, such as users with certain income levels and car brands, users with specific last names and email criteria, and top cities with the highest number of users and their average income.
+> The sample data provided in the "sample_data.json" file will be used to populate the database. The project involves implementing several API endpoints that efficiently and quickly retrieve the required data based on specific conditions, such as users with certain income levels and car brands, users with specific last names and email criteria, and top cities with the highest number of users and their average income.
 
 ### APIs are: 
 

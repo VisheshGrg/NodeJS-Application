@@ -2,7 +2,7 @@
 
 > Node.js Application with Express and MongoDB Backend and React/Next.js Frontend
 
-This project involves creating a Node.js application using the Express framework and MongoDB database, and connecting it to a frontend application developed using either React or Next.js. The main objective of the project is to fetch data from the MongoDB database and display it on the frontend in a table format, based on certain criteria. 
+This project involves creating a Node.js application using the Express framework and MongoDB database, and connecting it to a frontend application developed using React. The main objective of the project is to fetch data from the MongoDB database and display it on the frontend in a table format, based on certain criteria. 
 
 ### Tech stack used: 
 
